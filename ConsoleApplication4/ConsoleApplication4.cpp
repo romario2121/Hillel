@@ -13,8 +13,6 @@ int main()
 
 // 2. Напишіть найменшу програму, яку можна скомпілювати, скомпонувати та виконати.
 #include <iostream>
-using namespace std;
-
 int main() 
 {
 
