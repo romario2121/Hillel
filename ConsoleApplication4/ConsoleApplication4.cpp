@@ -15,11 +15,10 @@ int main()
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
 
-    double a = 1, b = 2;//програма ділить 2 числа та виводить результат на екран
-
-    cout << a / b;
+  
 }
 
 
